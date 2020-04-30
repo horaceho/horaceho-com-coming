@@ -1,1 +1,1 @@
-![](./horaceho-com-chrome.png)
+![](./horaceho-com-browser.png)
